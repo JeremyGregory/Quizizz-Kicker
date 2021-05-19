@@ -15,9 +15,8 @@ type the player name(case sensitive) and hit ok,
 when the player answers a question they will immediately be removed from the game without getting points for that question
 
 # Requirements
-1: You must be in the same quiz as the player you are kicking.<br/>
-2: The script needs to be ran when you see the questions or will not work at all<br/>
-3: This will not work on if ran on quizizz live starting screen were u see the players since were ending there game<br/>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **1: You must be in the same quiz as the player you are kicking**.<br/>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **2: The script needs to be ran when you see the questions or will not work at all**.<br/>
 
 # How it works
 im simply posting a request to (url) with room hash and player id (name)
